@@ -36,6 +36,9 @@
     <Reference Include="ColorSlider">
       <HintPath>..\..\..\..\Desktop\ColorSlider.dll</HintPath>
     </Reference>
+    <Reference Include="Leaf.xNet">
+      <HintPath>lib\Leaf.xNet.dll</HintPath>
+    </Reference>
     <Reference Include="Siticone.UI">
       <HintPath>..\..\..\..\Desktop\Siticone.UI.dll</HintPath>
     </Reference>

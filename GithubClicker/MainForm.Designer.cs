@@ -1,4 +1,6 @@
-﻿namespace GithubClicker
+﻿using Leaf.xNet;
+
+namespace GithubClicker
 {
     partial class MainForm
     {
@@ -29,7 +31,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm)); new HttpException();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pnCategory = new Siticone.UI.WinForms.SiticonePanel();
             this.pbDestruct = new System.Windows.Forms.PictureBox();

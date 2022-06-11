@@ -12,3 +12,17 @@ C:\Users\iweyn\source\repos\GithubClicker\GithubClicker\obj\Debug\GithubClicker.
 C:\Users\iweyn\source\repos\GithubClicker\GithubClicker\bin\Debug\Siticone.UI.dll
 C:\Users\iweyn\source\repos\GithubClicker\GithubClicker\obj\Debug\GithubClicker.csproj.CopyComplete
 C:\Users\iweyn\source\repos\GithubClicker\GithubClicker\bin\Debug\ColorSlider.dll
+C:\Users\r1\Documents\GitHub\Minecraft-Autoclicker\GithubClicker\bin\Debug\GithubClicker.exe.config
+C:\Users\r1\Documents\GitHub\Minecraft-Autoclicker\GithubClicker\bin\Debug\GithubClicker.exe
+C:\Users\r1\Documents\GitHub\Minecraft-Autoclicker\GithubClicker\bin\Debug\GithubClicker.pdb
+C:\Users\r1\Documents\GitHub\Minecraft-Autoclicker\GithubClicker\bin\Debug\Leaf.xNet.dll
+C:\Users\r1\Documents\GitHub\Minecraft-Autoclicker\GithubClicker\bin\Debug\Leaf.xNet.xml
+C:\Users\r1\Documents\GitHub\Minecraft-Autoclicker\GithubClicker\obj\Debug\GithubClicker.csproj.AssemblyReference.cache
+C:\Users\r1\Documents\GitHub\Minecraft-Autoclicker\GithubClicker\obj\Debug\GithubClicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\r1\Documents\GitHub\Minecraft-Autoclicker\GithubClicker\obj\Debug\GithubClicker.MainForm.resources
+C:\Users\r1\Documents\GitHub\Minecraft-Autoclicker\GithubClicker\obj\Debug\GithubClicker.Properties.Resources.resources
+C:\Users\r1\Documents\GitHub\Minecraft-Autoclicker\GithubClicker\obj\Debug\GithubClicker.csproj.GenerateResource.cache
+C:\Users\r1\Documents\GitHub\Minecraft-Autoclicker\GithubClicker\obj\Debug\GithubClicker.csproj.CoreCompileInputs.cache
+C:\Users\r1\Documents\GitHub\Minecraft-Autoclicker\GithubClicker\obj\Debug\GithubClicker.csproj.CopyComplete
+C:\Users\r1\Documents\GitHub\Minecraft-Autoclicker\GithubClicker\obj\Debug\GithubClicker.exe
+C:\Users\r1\Documents\GitHub\Minecraft-Autoclicker\GithubClicker\obj\Debug\GithubClicker.pdb
